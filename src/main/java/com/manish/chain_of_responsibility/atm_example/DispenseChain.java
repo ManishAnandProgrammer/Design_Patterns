@@ -1,4 +1,4 @@
-package com.manish.chain_of_responsibility;
+package com.manish.chain_of_responsibility.atm_example;
 
 public interface DispenseChain {
     void setNextChain(DispenseChain chain);
